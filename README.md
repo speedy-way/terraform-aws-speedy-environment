@@ -1,2 +1,2 @@
-# terraform-aws-speedy-ops-environment
+# terraform-aws-speedy-environment
 Product environment
